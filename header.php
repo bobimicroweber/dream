@@ -85,10 +85,6 @@
 
 -->
 
-
-
-
-
     <link href="<?php print mw()->template->get_stylesheet('assets/less/theme.less','mw-template-dream-style-vars'); ?>" id="theme-style" rel="stylesheet" type="text/css" media="all"/>
 
     <link href="{TEMPLATE_URL}assets/css/custom.css" rel="stylesheet" type="text/css" media="all"/>
